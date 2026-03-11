@@ -41,8 +41,8 @@ My academic journey and personal projects reflect a strong dedication to buildin
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kctechsia&show_icons=true&theme=tokyonight" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kctechsia&layout=compact&theme=tokyonight" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kctechsia&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kctechsia&layout=compact&theme=tokyonight" alt="Languages" />
 </p>
 
 ---
