@@ -3,7 +3,7 @@
 # 🚀 Welcome to my digital workspace!
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=KctechSia&label=Profile%20views&color=0e76a8&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Kctechsia&label=Profile%20views&color=0e76a8&style=flat" alt="Views" />
 </p>
 
 I am a passionate software engineering student currently pursuing a **Bachelor of Science in Software Development** at the **International University of Applied Sciences (IU)**. 
@@ -41,8 +41,8 @@ My academic journey and personal projects reflect a strong dedication to buildin
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KctechSia&show_icons=true&theme=tokyonight" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KctechSia&layout=compact&theme=tokyonight" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kctechsia&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kctechsia&layout=compact&theme=tokyonight" alt="Languages" />
 </p>
 
 ---
