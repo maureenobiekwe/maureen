@@ -1,7 +1,7 @@
 Hi 👋, I'm Kosi Maureen Obiekwe
 I make sure your software actually works (so your business can too).
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=Kctechsia&label=Profile%20views&color=0e76a8&style=flat" alt="Views" />
+<img src="https://komarev.com/ghpvc/?username=maureenobiekwe&label=Profile%20views&color=0e76a8&style=flat" alt="Views" />
 </p>
 
 Most software is built with high hopes, but let’s be honest: bugs happen. And for a business owner, a bug isn't just a technical glitch—it’s a lost sale, a frustrated customer, or a day of wasted time.
@@ -32,8 +32,8 @@ Since I work in sprints. You will get updates often, you will see progress clear
 
 📊 My GitHub Journey
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KctechSia&show_icons=true&theme=tokyonight" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KctechSia&layout=compact&theme=tokyonight" alt="Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=maureenobiekwe&show_icons=true&theme=tokyonight" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maureenobiekwe&layout=compact&theme=tokyonight" alt="Languages" />
 </p>
 
  Let's Build Something Reliable. I am excited to work with you just as you are. Speak soon!
